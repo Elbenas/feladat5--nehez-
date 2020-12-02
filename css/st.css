@@ -1,0 +1,60 @@
+#kerekhatter{
+    background-color: lightblue;
+    border: 1px solid lightblue;
+    padding: 40px;
+    margin: auto;
+    width: 70%;
+    height: 50%;
+    border-radius: 70px;
+}
+
+
+#pecsito{
+    text-align: center;
+    font-family: Sans-serif;
+    font-weight: bold;;
+    font-size: 18px;
+}
+
+hr{
+   border: 1px solid white ; 
+}
+
+#szoveg{
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+#szoveg1keret{
+  border: 1px solid black;
+  width: 65%;
+}
+
+#szoveg2keret{
+    border: 1px solid black;
+    width: 65%;
+}
+
+table, th, tr td{
+    border:1px solid black;
+    
+}
+
+#tablazat{
+    float: right;
+    width: 35%;
+    font-size: 14px;
+}
+
+#tablazatbal{
+    text-align: left;
+    font-size: 13px;
+    padding-right: 130px;
+    padding-left: 8px;
+}
+
+#tablazatmasikbal{
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
